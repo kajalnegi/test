@@ -1,6 +1,6 @@
  # Categorical or not 
 
-In test2.py , regroup_category accepts two inputs data and integar i.
+In test2.py , *regroup_category()* accepts two inputs data and integar i.
 
 ## Method Description
 
